@@ -21,8 +21,6 @@ You must use `.bind gui [key]`
 ## Credit
 * Event System - https://github.com/MeteorDevelopment/orbit
 ### People
-* Rom
-* heedi
-* ZANE
+* slimmask
 
 ## Fork anytime
